@@ -1,0 +1,7 @@
+# Dotfile
+
+
+## Instalation
+```bash
+./install
+```
